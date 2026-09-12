@@ -1,0 +1,20 @@
+# File konfigurasi lokal
+.env
+.env.local
+
+# Log
+*.log
+
+# File sistem Windows
+Thumbs.db
+Desktop.ini
+
+# File sistem macOS
+.DS_Store
+
+# File temporary
+tmp/
+temp/
+
+# Folder cache
+cache/
