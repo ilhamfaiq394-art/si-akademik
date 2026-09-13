@@ -12,7 +12,7 @@
             <div class="col-md-4">
                 <div class="card shadow-sm">
                     <div class="card-body p-4">
-                        <h3 class="card-title text-center mb-4">Halaman Login</h3>
+                        <h3 class="card-title text-center mb-4">Login SI Akademik</h3>
                         <!-- acara 6: menampilkan flash message -->
                         <?php if (!empty($_SESSION['flash_message'])): ?>
                             <div class="alert alert-<?= $_SESSION['flash_message']['type']; ?> alert-dismissible fade show" role="alert">
